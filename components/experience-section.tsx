@@ -3,30 +3,32 @@ import { ExternalLink } from "lucide-react";
 const experiences = [
   {
     period: "2024 — Present",
-    title: "Senior AI Engineer",
-    company: "AI Research Lab",
-    link: "#",
+    title: "GenAI / LLM Engineer",
+    company: "Walmart",
+    link: "www.walmart.com",
     description:
-      "Leading the development of enterprise-grade LLM applications. Architecting RAG systems and fine-tuning models for domain-specific tasks. Managing a team of 5 AI engineers.",
-    skills: ["LLMs", "RAG", "Python", "LangChain", "AWS"],
+"Working on enterprise-scale Generative AI, LLM, RAG, and Agentic AI solutions for retail and conversational commerce use cases, including a GenAI Retail Assistant and Merchant Copilot Platform. Built intelligent assistant and copilot capabilities using Azure OpenAI, GPT-4o, GPT-4 Turbo, Azure AI Foundry, LangChain, Semantic Kernel, LangGraph, MCP, ReAct, Azure AI Search, vector search, embeddings, Redis, and FastAPI to support personalized product discovery, contextual recommendations, customer query resolution, merchant insights, inventory intelligence, and product performance analysis.
+Designed and deployed scalable GenAI workflows with Python, REST APIs, Docker, AKS, Helm, GitHub Actions, Azure DevOps CI/CD, Microsoft Fabric, OneLake, Synapse Analytics, Azure Data Factory, RAGAS, Promptflow, Prometheus, Evidently AI, and Azure Monitor. Focused on improving retrieval accuracy, reducing hallucinations, enabling multi-turn conversation memory, optimizing LLM inference latency, strengthening AI observability, and delivering secure, governed AI applications for large-scale retail operations."    skills: ["LLMs", "RAG", "Python", "LangChain", "AWS"],
   },
   {
     period: "2022 — 2024",
-    title: "Machine Learning Engineer",
-    company: "Tech Startup",
-    link: "#",
+    title: "Senior Machine Learning Engineer(NLP, MLOps)",
+    company: "Capital One",
+    link: "www.capitalone.com",
     description:
-      "Built and deployed production ML models for natural language processing. Developed conversational AI systems serving 100K+ users. Implemented MLOps pipelines for continuous model improvement.",
-    skills: ["PyTorch", "Transformers", "Docker", "Kubernetes", "GCP"],
+"Worked on NLP, Machine Learning, LLM evaluation, and MLOps solutions for financial services use cases including credit risk, customer segmentation, communication classification, financial document summarization, customer intent analysis, and real-time credit decisioning. Built and deployed supervised learning, deep learning, and transformer-based models using Python, Scikit-learn, PyTorch, XGBoost, T5, BERT, DeBERTa, Sentence-BERT, GPT-3.5, Claude APIs, Amazon Bedrock, FAISS, Milvus, LSTM, GRU, and SHAP, improving model performance, explainability, and production reliability.
+
+Designed scalable MLOps and model deployment workflows using AWS SageMaker, SageMaker Model Registry, EKS, Kubernetes HPA, Terraform, Docker, FastAPI, OAuth2, Apache Airflow, MLflow, Databricks, Delta Lake, Snowflake, SQL, ELK Stack, OPA, AWS Secrets Manager, and DevSecOps controls. Delivered secure, auditable, and low-latency ML systems with strong focus on model governance, Model Risk Management, feature engineering, A/B testing, drift monitoring, experiment tracking, CI/CD automation, and real-time inference optimization."    skills: ["PyTorch", "Transformers", "Docker", "Kubernetes", "GCP"],
   },
   {
     period: "2020 — 2022",
     title: "Data Scientist",
-    company: "Enterprise Corp",
-    link: "#",
+    company: "Highmark Health",
+    link: "Highmarkhealth.com",
     description:
-      "Developed predictive models and NLP solutions for business intelligence. Created automated reporting systems and dashboards. Collaborated with cross-functional teams to deliver AI-driven insights.",
-    skills: ["Python", "TensorFlow", "SQL", "Spark", "Tableau"],
+"Worked as a Data Scientist supporting healthcare analytics and machine learning initiatives across patient risk stratification, utilization forecasting, classification, operational decision support, and population health analytics. Designed end-to-end ML pipelines covering data ingestion, feature engineering, model training, validation, deployment, and monitoring using Python, SQL, Jupyter Notebook, Scikit-learn, TensorFlow, PyTorch, Logistic Regression, Random Forest, Gradient Boosting, and neural network-based models.
+
+Built healthcare data pipelines and analytics solutions using Snowflake, Oracle, SQL Server, ETL, Apache Airflow, MLflow, DVC, AWS SageMaker, Docker, Kubernetes, REST APIs, GitHub Actions, Jenkins, Tableau, and Excel. Focused on improving model reliability, automating recurring healthcare analytics workflows, detecting feature drift and data anomalies, validating model performance using AUC-ROC, Precision, Recall, F1-score, MAE, and RMSE, and delivering actionable dashboards for clinical, business, and operational stakeholders."    skills: ["Python", "TensorFlow", "SQL", "Spark", "Tableau"],
   },
 ];
 
