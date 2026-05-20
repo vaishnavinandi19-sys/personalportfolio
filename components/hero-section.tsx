@@ -17,7 +17,7 @@ export function HeroSection() {
           VAISHNAVI NANDIKANDI
         </h1>
         <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground mb-6">
-          <span className="text-primary italic">Generative AI Specialist.</span>{" "}
+          <span className="text-primary italic">Generative AI Engineer.</span>{" "}
           Building intelligent solutions that transform how businesses operate.
         </p>
         <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mb-12">
