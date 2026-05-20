@@ -12,12 +12,9 @@ export function AboutSection() {
             <p className="text-lg md:text-xl text-foreground leading-relaxed">
               I&apos;m a{" "}
               <span className="text-primary font-medium">
-                Generative AI expert
+                Generative AI Engineer - RAG & Multi-Agent Systems
               </span>{" "}
-              passionate about pushing the boundaries of what&apos;s possible
-              with artificial intelligence. My work lies at the intersection of
-              research and practical application, creating AI solutions that
-              deliver real business value.
+              Passionate about building production-grade artificial intelligence systems that solve real business problems. My work focuses on Generative AI, Agentic AI workflows, RAG platforms, LLM orchestration, and scalable AI solutions that turn complex data into practical business value.
             </p>
             <p className="text-base text-muted-foreground leading-relaxed">
               In the past, I&apos;ve had the opportunity to work across a variety
